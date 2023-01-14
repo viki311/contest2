@@ -1,0 +1,165 @@
+.Rectangle1{
+    position: fixed;
+width: 333px;
+height: 100%;
+left: 21px;
+top: 19px;
+
+background: #262626;
+border-radius: 50px;
+
+}
+.Rectangle2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1630px;
+height: 588px;
+left: 374px;
+top: 19px;
+
+background: #262626;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+}
+.Rectangle3{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1630px;
+    height: 464px;
+    left: 371px;
+    top: 636px;
+    
+    background: #262626;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+}
+.image1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 222px;
+height: 222px;
+left: 54px;
+top: 75px;
+
+background: url(image1/1.png);
+border: 2px solid #333333;
+border-radius: 1000px;
+}
+.name{
+    position: absolute;
+width: 132px;
+height: 36px;
+left: 100px;
+top: 321px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.sub{
+    position: absolute;
+width: 87px;
+height: 27px;
+left: 120px;
+top: 350px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: rgba(255, 255, 255, 0.5);
+}
+.btn{
+    position: relative;
+    width: 260px;
+    height: 61px;
+    left: 38px;
+    top: 430px;
+    
+    background: #111111;
+    border-radius: 30px;
+   
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+
+color: rgba(255, 255, 255, 0.5);
+
+}
+.btn1{
+    margin-top: 8px;
+}
+.heading1{
+    position: absolute;
+width: 231px;
+height: 36px;
+left: 80px;
+top: 75px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.para{
+    position: absolute;
+width: 570px;
+height: 430px;
+left: 80px;
+top: 120px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 50px;
+font-size: 18px;
+line-height: 27px;
+
+color: rgba(255, 255, 255, 0.5);
+
+}
+.readmore{
+    position: absolute;
+width: 735px;
+height: 410px;
+left: 780px;
+top: 120px;
+
+background: url(image1/2.png);
+border-radius: 20px;
+}
+.heading2{
+    position: absolute;
+    width: 199px;
+    height: 43px;
+    left: 427px;
+    top: 673px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    
+    color: #FFFFFF;
+}
